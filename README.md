@@ -52,9 +52,7 @@ While building this, a few fascinating customer trends jumped out:
 
 Thank you for checking out my project! I love talking about data strategy, visualization best practices, or business analytics. 
 
-If you have any feedback or just want to chat about data, feel free to connect with me:
-* **LinkedIn:** https://www.linkedin.com/in/aliabdulnabii/
-* **Email:** ali_abedlnabi@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliabdulnabii/)
 
 ---
 *Tip: If you download the `.xlsx` file to test it out locally, don't forget to click **"Enable Content"** at the top of Excel so the dynamic slicers update perfectly when you click them!*
