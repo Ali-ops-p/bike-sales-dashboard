@@ -16,11 +16,11 @@ This is the core workspace where stakeholders can view high-level summaries at a
 
 ### 2. Deep Dive with Dynamic Slicers
 By implementing customized filters (Slicers) for **Marital Status**, **Region**, and **Education**, users can cut through the noise and segment the data dynamically to answer targeted questions in real time.
-![Dashboard with Slicers](Dashboard with Slices.png)
+![Dashboard with Slicers](<Dashboard with Slices.png>)
 
 ### 3. The Analytical Foundation (Pivot Tables)
 Great visualizations require strong data architecture. This view showcases the underlying pivot tables, calculations, and structured frameworks that drive the visual charts on the front end.
-![Pivot Tables Layout](Pivot Tables.png)
+![Pivot Tables Layout](<Pivot Tables.png>)
 
 ---
 
